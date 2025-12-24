@@ -61,6 +61,10 @@ Dynamic charts and KPIs
 
 User-friendly filters for data exploration
 
+<img width="1239" height="595" alt="Screenshot 2025-12-24 154917" src="https://github.com/user-attachments/assets/d2f57e14-0342-454b-9505-5484df32de81" />
+
+
+
 8. How to Run This Project:-
 
 Download or clone the repository
