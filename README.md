@@ -1,7 +1,7 @@
 # Interactive Excel Dashboard for Data Analysis
-# An interactive Excel dashboard designed to analyze and visualize data for better decision-making.
+ An interactive Excel dashboard designed to analyze and visualize data for better decision-making.
 
-#1. Overview:-
+1. Overview:-
 
 This project focuses on building an interactive dashboard using Microsoft Excel.
 It helps users understand trends, patterns, and key metrics through charts, pivot tables, and slicers.
@@ -89,6 +89,9 @@ Integrate with real-time data sources
 11. Author and Contact:-
 
 Author: Parmeshwar Lokhande
+
 Role: Aspiring Data Analyst
-GitHub: (Add your GitHub profile link here)
+
+GitHub: https://github.com/Parmeshwar-Lokhande
+
 Email: parmeshwarlokhande30@gmail.com
